@@ -1,0 +1,4 @@
+GROQ_API_KEY = "PASTE_YOUR_GROQ_API_KEY_HERE"
+MODEL = "llama-3.1-8b-instant"
+
+
