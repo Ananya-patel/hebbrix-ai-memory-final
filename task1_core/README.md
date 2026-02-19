@@ -97,7 +97,9 @@ pip install groq sentence-transformers numpy
 
 3.Add your Groq API key
 GROQ_API_KEY = "your_groq_api_key_here"
-MODEL = "llama-3.1-70b-versatile"
+MODEL = "llama-3.1-8b-instant"
+
+
 
 4.Run the chatbot
 python chat.py
